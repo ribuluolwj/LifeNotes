@@ -17,7 +17,7 @@ release = 'v1'
 extensions = [
         'myst_parser',
 #        'recommonmark',
-#        'sphinx_markdown_tables'
+        'sphinx_markdown_tables'
 
         ]
 
