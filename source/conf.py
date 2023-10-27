@@ -13,7 +13,7 @@ release = 'v1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
+extensions_path=['./_extensions']
 extensions = [
         'myst_parser',
 #        'recommonmark',
